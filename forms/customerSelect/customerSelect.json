@@ -25,7 +25,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "Textarea1.json"
+        "txtResults.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "Button1.json"
+        "btnShowCustomers.json"
       ]
     }
   ],

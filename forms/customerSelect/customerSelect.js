@@ -1,5 +1,10 @@
 query = "SELECT * FROM customer"
-req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "dbs15065&pass=" + pw + "&database=dbs15065&query=" + query)
+req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
+
+btnShowCustomers.onload=function(){
+    query = "SELECT * FROM customer"
+    req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
+}
 
 if (req.status == 200) {
   results = JSON.parse(req.responseText)
@@ -12,6 +17,8 @@ if (req.status == 200) {
     txtResults.value = message
     }
 }
+
+
 
 /*  SELECT CODE Cleaned up
         
@@ -32,3 +39,4 @@ if (req.status == 200) {
     } else   // the transit didn't work - bad wifi? server turned off?
         lblMessage1.textContent = "Error code: " + req.status
 }
+*/
