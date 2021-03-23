@@ -36,6 +36,33 @@
         "Elements",
         "btnShowCustomers.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "customerDelete1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "customerUpdate1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "customerAdd1.json"
+      ]
     }
   ],
   "class": "",
