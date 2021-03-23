@@ -43,7 +43,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "customerDelete1.json"
+        "btnCustomerDelete1.json"
       ]
     },
     {
@@ -52,7 +52,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "customerUpdate1.json"
+        "btnCustomerUpdate1.json"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "customerAdd1.json"
+        "btnCustomerAdd1.json"
       ]
     }
   ],

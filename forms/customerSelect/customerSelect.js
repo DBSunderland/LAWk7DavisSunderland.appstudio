@@ -4,6 +4,9 @@ let results = []
 let pw = "Albatro$$19"
 let netID = "dbs15065"
 
+btnCustomerDelete1.onclick=function(){
+  ChangeForm(customerDelete)
+}
 
 customerSelect.onshow = function() {
   query = "SELECT * FROM customer"
@@ -45,3 +48,39 @@ customerSelect.onshow = function() {
         lblMessage1.textContent = "Error code: " + req.status
 }
 */
+
+/* 
+btnDemoSelectPetTypes.onclick=function(){
+  ChangeForm(DemoSelectTypePets)
+}
+btnActivitySelectPetTypes.onclick=function(){
+    ChangeForm(activitySelectTypePets)
+}
+btnDemoInsertPets.onclick=function(){
+  ChangeForm(DemoInsertPets)
+}
+btnActivityInsertPets.onclick=function(){
+  ChangeForm(activityInsertPets)
+}
+btnDemoDeletePets.onclick=function(){
+  ChangeForm(DemoDelPets)
+}
+btnActivityDeletePets.onclick=function(){
+  ChangeForm(activityDelPets)
+}
+btnDemoUpdatePets.onclick=function(){
+  ChangeForm(DemoUpdatePets)
+}
+btnActivityUpdatePets.onclick=function(){
+    ChangeForm(activityUpdatePets)
+}
+*/
+
+
+
+
+
+
+
+
+

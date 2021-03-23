@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": "auto",
+  "height": 74,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "customerUpdate1",
-  "left": 15,
+  "id": "btnCustomerAdd1",
+  "left": 172,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 382,
-  "value": "Customer Update",
-  "width": "auto"
+  "top": 376,
+  "value": "Customer Add",
+  "width": 128
 }
