@@ -7,6 +7,12 @@ let netID = "dbs15065"
 btnCustomerDelete1.onclick=function(){
   ChangeForm(customerDelete)
 }
+btnCustomerUpdate1.onclick=function(){
+  ChangeForm(customerUpdate)
+}
+btnCustomerAdd1.onclick=function(){
+  ChangeForm(customerAdd)
+}
 
 customerSelect.onshow = function() {
   query = "SELECT * FROM customer"

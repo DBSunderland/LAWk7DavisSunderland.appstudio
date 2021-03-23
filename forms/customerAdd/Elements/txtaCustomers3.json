@@ -23,13 +23,13 @@
   "footer": "",
   "header": "Customers",
   "headerCols": 2,
-  "height": "auto",
+  "height": 80,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "txtaCustomers2",
+  "id": "txtaCustomers3",
   "inputmode": "",
-  "left": 12,
+  "left": 14,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -74,9 +74,9 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 223,
+  "top": 172,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 144
 }

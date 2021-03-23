@@ -14,72 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerUpdate",
         "Elements",
-        "txtaCustomers2.json"
+        "txtaCustomers4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerUpdate",
         "Elements",
-        "inptDeleteCustomer.json"
+        "btnCustomerSelect4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerUpdate",
         "Elements",
-        "btnDelete.json"
+        "btnCustomerDelete4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerUpdate",
         "Elements",
-        "lblMessage2.json"
+        "btnCustomerAdd4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerUpdate",
         "Elements",
-        "btnCustomerSelect2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "btnCustomerAdd2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "btnCustomerUpdate2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "btnDisplayCustomers.json"
+        "inptUpdatedName.json"
       ]
     }
   ],
@@ -89,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerDelete",
+  "id": "customerUpdate",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

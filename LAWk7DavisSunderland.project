@@ -22,14 +22,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "overview",
-            "overview.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "customerSelect",
             "customerSelect.json"
           ]
@@ -40,6 +32,22 @@
             "forms",
             "customerDelete",
             "customerDelete.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerAdd",
+            "customerAdd.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
           ]
         }
       ],

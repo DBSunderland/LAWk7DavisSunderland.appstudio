@@ -14,72 +14,99 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "txtaCustomers2.json"
+        "txtaCustomers3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "inptDeleteCustomer.json"
+        "btnCustomerSelect3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnDelete.json"
+        "btnCustomerDelete3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "lblMessage2.json"
+        "btnCustomerUpdate3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnCustomerSelect2.json"
+        "lblConfirmAdd.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnCustomerAdd2.json"
+        "btnAddCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnCustomerUpdate2.json"
+        "inptNewName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "btnDisplayCustomers.json"
+        "inptNewAddress.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptNewCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptNewState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptNewZipcode.json"
       ]
     }
   ],
@@ -89,7 +116,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerDelete",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
