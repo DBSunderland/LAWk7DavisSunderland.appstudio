@@ -30,7 +30,7 @@ btnDisplayCustomers.onclick = function() {
 btnDelete.onclick = function() {
   let customerNameDelete = inptDeleteCustomer.value
   let found = false
-  for (i = 0; i <= allCustomers.length - 1; i++) {
+  for (i = 0; i <= Customers.length - 1; i++) {
     if (customerNameDel == allCustomers[i][1])
       found = true
   }

@@ -8,7 +8,7 @@ btnCustomerUpdate3.onclick = function() {
   ChangeForm(customerUpdate)
 }
 
-btnCustomerAdd.onclick = function() {
+btnAddCustomer.onclick = function() {
   let name = inptNewName.value
   let address = inptNewAddress.value
   let city = inptNewCity.value
